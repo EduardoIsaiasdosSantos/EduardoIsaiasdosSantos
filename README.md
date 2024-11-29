@@ -10,8 +10,10 @@ essas são as tecnologias que eu tenho praticado e estudado:
 width="40"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <div>          
+ 
 ##
-minhas redes sociais e meios de comunicação:
+
+##minhas redes sociais e meios de comunicação:
 <div style="display: inline_block"><br>
  <a href = "ex.exemplo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
   </div>
