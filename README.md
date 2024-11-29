@@ -8,7 +8,7 @@ essas são as tecnologias que eu tenho praticado e estudado:
 <div style="display: inline_block"><br>
 <img align="center" alt="eduardo-js" height="30"
 width="40"
-<i class="devicon-python-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <div>          
 ##
 minhas redes sociais e meios de comunicação:
