@@ -1,4 +1,4 @@
-## Sou estuudante do SENAI
+## Sou estudante do SENAI
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoIsaiasdosSantos&show_icons=true&theme=tokyonight)
